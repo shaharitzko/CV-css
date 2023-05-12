@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Didact Gothic', sans-serif;
+}
+h1 {
+  font-family: 'Satisfy', cursive;
+  margin-top: 0;
+  font-size: 50px;
+}
+h2 {
+  margin: 0;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+.top-container {
+  background-color: #C3F8FF;
+  position: relative;
+  padding-top: 150px;
+}
+.middle-container {
+  margin-top: 10px;
+}
+.bottom-container {
+}
+.lower-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.upper-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+.bold {
+  font-weight: bold;
+}
+#headline {
+  font-size: 24px;
+}
